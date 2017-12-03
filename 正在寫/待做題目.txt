@@ -1,0 +1,34 @@
+LCS
+10252
+10723
+10949
+Data compression
+283
+444
+644
+LIS
+103
+437
+10131
+10051
+
+STL set
+
+graph 
+
+DFS
+599 676 705 10004 10308 10505 10672 10939 
+
+BFS
+
+MST
+10034 10147 10307 10397 10600 10842
+
+kruskal
+908 10369 10462 
+
+maxflow
+
+DP
+
+http://www.wretch.cc/blog/trendnop09/21159427
